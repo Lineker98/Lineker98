@@ -1,6 +1,4 @@
 ### Hi there, I'm Lineker :wave:
-<!--
-**Lineker98/Lineker98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Lineker and i'm from Brazil. Currently i'm student of computer engineering at UFOP :heart:.
 At my university i'm getting knowledge and focus on subjects like deep learning, machine learning, data science and back-end projects. And i can't forget to say that
