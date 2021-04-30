@@ -4,7 +4,7 @@ My name is Lineker and i'm from Brazil. Currently i'm student of computer engine
 At my university i'm getting knowledge and focus on subjects like deep learning, machine learning, data science and back-end projects. And i can't forget to say that
 i am very lucky to study what i like to do, enjoying it as much as i can.
 
-- :mag_right: I'm currently working on some research to try to improve our student life at university.
+- :mag_right: I'm currently working on a research to try to improve our student life at university.
 - :books: I'm currently trying to get better my skills with node js and JavaScript.
 - :heart_eyes: I'm an enthusiast of artificial intelligence.
 - 📫 How to reach me: Lineker.aguiar98@gmail.com.
