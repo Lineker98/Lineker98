@@ -19,5 +19,5 @@ weapons detection problems in surveillance videos
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/lineker-alcântara/
+[linkedin]: https://www.linkedin.com/in/lineker-alcantara/
 [instagram]: https://www.instagram.com/linekeraaguiar/
